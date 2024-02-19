@@ -1,0 +1,18 @@
+{
+  "resources/images/logo-boss-brand.png": {
+    "file": "assets/logo-boss-brand-0969f41d.png",
+    "src": "resources/images/logo-boss-brand.png"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-7ae5f50a.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-7ae5f50a.css"
+    ],
+    "file": "assets/app-7c1e68ab.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "_vendor-5a645655.js": {
+    "file": "assets/vendor-5a645655.js"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-003f1154.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-faae6fc0.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-7d81a1a7.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-9169d8be.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-cea79b34.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-886c8611.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf": {
+    "file": "assets/fa-v4compatibility-455e8e72.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2": {
+    "file": "assets/fa-v4compatibility-335fd7d9.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+  },
+  "resources/favicon/android-icon-144x144.png": {
+    "file": "assets/ms-icon-144x144-dd07b5f0.png",
+    "src": "resources/favicon/ms-icon-144x144.png"
+  },
+  "resources/favicon/android-icon-192x192.png": {
+    "file": "assets/android-icon-192x192-3502ef46.png",
+    "src": "resources/favicon/android-icon-192x192.png"
+  },
+  "resources/favicon/android-icon-36x36.png": {
+    "file": "assets/android-icon-36x36-6449b25b.png",
+    "src": "resources/favicon/android-icon-36x36.png"
+  },
+  "resources/favicon/android-icon-48x48.png": {
+    "file": "assets/android-icon-48x48-d7c97001.png",
+    "src": "resources/favicon/android-icon-48x48.png"
+  },
+  "resources/favicon/android-icon-72x72.png": {
+    "file": "assets/apple-icon-72x72-a0b3ad3e.png",
+    "src": "resources/favicon/apple-icon-72x72.png"
+  },
+  "resources/favicon/android-icon-96x96.png": {
+    "file": "assets/favicon-96x96-6b45339b.png",
+    "src": "resources/favicon/favicon-96x96.png"
+  },
+  "resources/favicon/apple-icon-114x114.png": {
+    "file": "assets/apple-icon-114x114-60af36f7.png",
+    "src": "resources/favicon/apple-icon-114x114.png"
+  },
+  "resources/favicon/apple-icon-120x120.png": {
+    "file": "assets/apple-icon-120x120-950b8586.png",
+    "src": "resources/favicon/apple-icon-120x120.png"
+  },
+  "resources/favicon/apple-icon-144x144.png": {
+    "file": "assets/ms-icon-144x144-dd07b5f0.png",
+    "src": "resources/favicon/ms-icon-144x144.png"
+  },
+  "resources/favicon/apple-icon-152x152.png": {
+    "file": "assets/apple-icon-152x152-b0eabd9d.png",
+    "src": "resources/favicon/apple-icon-152x152.png"
+  },
+  "resources/favicon/apple-icon-180x180.png": {
+    "file": "assets/apple-icon-180x180-41537adb.png",
+    "src": "resources/favicon/apple-icon-180x180.png"
+  },
+  "resources/favicon/apple-icon-57x57.png": {
+    "file": "assets/apple-icon-57x57-67e4d411.png",
+    "src": "resources/favicon/apple-icon-57x57.png"
+  },
+  "resources/favicon/apple-icon-60x60.png": {
+    "file": "assets/apple-icon-60x60-70935e4c.png",
+    "src": "resources/favicon/apple-icon-60x60.png"
+  },
+  "resources/favicon/apple-icon-72x72.png": {
+    "file": "assets/apple-icon-72x72-a0b3ad3e.png",
+    "src": "resources/favicon/apple-icon-72x72.png"
+  },
+  "resources/favicon/apple-icon-76x76.png": {
+    "file": "assets/apple-icon-76x76-b0a4d4cc.png",
+    "src": "resources/favicon/apple-icon-76x76.png"
+  },
+  "resources/favicon/apple-icon-precomposed.png": {
+    "file": "assets/apple-icon-181238b5.png",
+    "src": "resources/favicon/apple-icon.png"
+  },
+  "resources/favicon/apple-icon.png": {
+    "file": "assets/apple-icon-181238b5.png",
+    "src": "resources/favicon/apple-icon.png"
+  },
+  "resources/favicon/favicon-16x16.png": {
+    "file": "assets/favicon-16x16-90d9efbb.png",
+    "src": "resources/favicon/favicon-16x16.png"
+  },
+  "resources/favicon/favicon-32x32.png": {
+    "file": "assets/favicon-32x32-2795ca3a.png",
+    "src": "resources/favicon/favicon-32x32.png"
+  },
+  "resources/favicon/favicon-96x96.png": {
+    "file": "assets/favicon-96x96-6b45339b.png",
+    "src": "resources/favicon/favicon-96x96.png"
+  },
+  "resources/favicon/favicon.ico": {
+    "file": "assets/favicon-aaf74a03.ico",
+    "src": "resources/favicon/favicon.ico"
+  },
+  "resources/favicon/ms-icon-144x144.png": {
+    "file": "assets/ms-icon-144x144-dd07b5f0.png",
+    "src": "resources/favicon/ms-icon-144x144.png"
+  },
+  "resources/favicon/ms-icon-150x150.png": {
+    "file": "assets/ms-icon-150x150-22a543a1.png",
+    "src": "resources/favicon/ms-icon-150x150.png"
+  },
+  "resources/favicon/ms-icon-310x310.png": {
+    "file": "assets/ms-icon-310x310-d6094f17.png",
+    "src": "resources/favicon/ms-icon-310x310.png"
+  },
+  "resources/favicon/ms-icon-70x70.png": {
+    "file": "assets/ms-icon-70x70-78464aed.png",
+    "src": "resources/favicon/ms-icon-70x70.png"
+  },
+  "resources/images/about.webp": {
+    "file": "assets/about-880a3a98.webp",
+    "src": "resources/images/about.webp"
+  },
+  "resources/images/logo-loweproducoes.png": {
+    "file": "assets/logo-loweproducoes-ed29fbd8.png",
+    "src": "resources/images/logo-loweproducoes.png"
+  },
+  "resources/images/metricas.webp": {
+    "file": "assets/metricas-57ec718f.webp",
+    "src": "resources/images/metricas.webp"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-5e0513c8.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/fa-brands-400-faae6fc0.woff2",
+      "assets/fa-brands-400-003f1154.ttf",
+      "assets/fa-regular-400-9169d8be.woff2",
+      "assets/fa-regular-400-7d81a1a7.ttf",
+      "assets/fa-solid-900-886c8611.woff2",
+      "assets/fa-solid-900-cea79b34.ttf",
+      "assets/fa-v4compatibility-335fd7d9.woff2",
+      "assets/fa-v4compatibility-455e8e72.ttf"
+    ],
+    "css": [
+      "assets/app-5e0513c8.css"
+    ],
+    "file": "assets/app-28b28cf6.js",
+    "imports": [
+      "_vendor-5a645655.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
